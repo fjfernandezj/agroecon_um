@@ -1,4 +1,8 @@
-# Introduction {#intro}
+# Introducción {#intro}
+
+
+La presente unidad busca responder a las preguntas "¿Qué es la economía agraria?" y ¿Qué hace un economista agrario?. En la primera sección, definimos el alcance de la economía y conceptos claves para su definición, tales como recursos escasos, agentes económicos, trade-offs y costo oportunidad. De esta manera definimos el campo de la economía y luego desarrollamos nuestra definición de economía agraria basada en el papel que desempeñan los economistas agrarios a nivel micro y macro. La sección 2 proporciona antecedentes que permiten analizar la estructura cambiante de la agricultura mundial y nacional. Así mismo se establece la complejidad del sector agrario y su vínculo con un sin número de sectores.
+
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 

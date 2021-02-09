@@ -1,16 +1,17 @@
 bookdown::gitbook:
   css: style.css
+  split_by: chapter
   config:
     toc:
+      toc:
       before: |
-        <li><a href="./">A Minimal Book Example</a></li>
+        <li><center><img src="imagenes/umayor.png" alt="umayor" width="50%" height="50%"style="margin: 15px 0 0 0"></center></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
-    in_header: preamble.tex
+    in_header: template.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
