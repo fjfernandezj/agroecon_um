@@ -1,0 +1,123 @@
+--- 
+title: "Guía de Economía Aplicada Sectorial"
+author: "Francisco Fernández"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: fjfernandezj/agroecon_um
+description: "Guía para el curso de Economía Aplicada Sectorial"
+---
+
+# Bienvenidos {-}
+
+La presente Guía tiene el objetivo de proporcionar a los estudiantes de **Economía Aplicada Sectorial (AGRG-1001)** de la [**Escuela de Agronomía de la Universidad Mayor**](https://www.umayor.cl/um/carreras/agronomia-santiago/10000) una guía para de apoyo para la asignatura durante todo el semestre de este año. A través de esta guía tendrán acceso completo a toda el material que veremos durante el semestre y adicionalmente podrán poner en práctica todo lo que acá veamos.
+
+ 
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+<!--chapter:end:index.Rmd-->
+
+# Introducción {#intro}
+
+
+La presente unidad busca responder a las preguntas "¿Qué es la economía agraria?" y ¿Qué hace un economista agrario?. En la primera sección, definimos el alcance de la economía y conceptos claves para su definición, tales como recursos escasos, agentes económicos, trade-offs y costo oportunidad. De esta manera definimos el campo de la economía y luego desarrollamos nuestra definición de economía agraria basada en el papel que desempeñan los economistas agrarios a nivel micro y macro. La sección 2 proporciona antecedentes que permiten analizar la estructura cambiante de la agricultura mundial y nacional. Así mismo se establece la complejidad del sector agrario y su vínculo con un sin número de sectores.
+
+
+You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+
+Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+
+```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
+par(mar = c(4, 4, .1, .1))
+plot(pressure, type = 'b', pch = 19)
+```
+
+Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
+
+```{r nice-tab, tidy=FALSE}
+knitr::kable(
+  head(iris, 20), caption = 'Here is a nice table!',
+  booktabs = TRUE
+)
+```
+
+You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+
+<!--chapter:end:01-intro.Rmd-->
+
+# Literature
+
+Here is a review of existing methods.
+
+<!--chapter:end:02-literature.Rmd-->
+
+# Methods
+
+We describe our methods in this chapter.
+
+<!--chapter:end:03-method.Rmd-->
+
+# Applications
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Example one
+
+## Example two
+
+<!--chapter:end:04-application.Rmd-->
+
+# Final Words
+
+We have finished a nice book.
+
+<!--chapter:end:05-summary.Rmd-->
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+<!--chapter:end:06-references.Rmd-->
+
+---
+output:
+   pdf_document:
+     template: template.tex
+     latex_engine: lualatex
+---
+
+Hello! This is lualatex
+
+<!--chapter:end:lualatex.Rmd-->
+
+---
+output:
+   pdf_document:
+     latex_engine: pdflatex
+---
+
+Hello! This is pdflatex
+
+<!--chapter:end:pdflatex.Rmd-->
+
+---
+output:
+   pdf_document:
+     template: template.tex
+     latex_engine: lualatex
+---
+
+Hello! This is lualatex
+
+<!--chapter:end:template.Rmd-->
+
