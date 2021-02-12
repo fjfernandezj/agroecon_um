@@ -1,7 +1,7 @@
-# Applications
+# Rol del Gobierno en la Industria Agroalimentaria
 
-Some _significant_ applications are demonstrated in this chapter.
+## Sección 10: Recursos Naturales, Medioambiente y Agricultura {.unnumbered #Sec10}
 
-## Example one
+## Sección 11: Intervención Gubernamental {.unnumbered #Sec11}
 
-## Example two
+## Sección 12: Comercio Agrícola y tipos de cambio {.unnumbered #Sec12}
