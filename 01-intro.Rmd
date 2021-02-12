@@ -3,7 +3,7 @@
 
 La presente unidad busca responder a las preguntas _"¿Qué es la economía agraria?"_ y _¿Qué hace un economista agrario?_. En la primera sección, definiremos el alcance de la economía y conceptos claves para su definición, tales como recursos escasos, agentes económicos, trade-offs y costo oportunidad. De esta manera definiremos el campo de la economía y luego desarrollaremos nuestra definición de **Economía Agraria** basada en el papel que desempeñan los economistas agrarios a nivel micro y macro. La sección 2 proporciona antecedentes que permiten analizar la estructura cambiante de la agricultura mundial y nacional. Así mismo se establece la complejidad del sector agrario y su vínculo con un sin número de sectores.
 
-## Sección 1: ¿Qué es la Economía Agraria? {#Sec1}
+## Sección 1: ¿Qué es la Economía Agraria? {.unnumbered #Sec1}
 
 La Agricultura ha sido y continúa siendo uno de los sectores económicos más destacados de cualquier economía. **[Describir la importancia]**. En este curso particular nos focalizaremos en las relaciones económicas inherentes al sector agrícola.
 
@@ -11,7 +11,10 @@ Tomado en cuenta lo anterior, si contestaran a la pregunta _¿Qué es la econom�
 
 De esta manera, para obtener una mejor definición de _economía agraria_, examinaremos primero el alcance de la economía y el papel que juegan los economistas agrícolas en la economía actual. Este examen nos permitirá proponer una respuesta más definitiva a la pregunta  _¿Qué es la economía agraria?_ 
 
-### Alcance de la Economía
+
+### Alcance de la Economía {.unnumbered}
+
+## Sección 2: El sector agrícola global y chileno {.unnumbered #Sec2}
 
 
 
