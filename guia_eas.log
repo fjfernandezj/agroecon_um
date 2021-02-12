@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2021.2.10)  12 FEB 2021 17:08
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2021.2.10)  12 FEB 2021 18:03
  restricted system commands enabled.
 **guia_eas.tex
 (./guia_eas.tex
@@ -278,7 +278,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
-Package: hyperref 2021-02-08 v7.00i Hypertext links for LaTeX
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
 sty
@@ -337,11 +337,11 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
-File: pd1enc.def 2021-02-08 v7.00i Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 )
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-
 langpatches.def
-File: hyperref-langpatches.def 2021-02-08 v7.00i Hyperref: patches for babel lan
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel lan
 guages
 )
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.
@@ -353,24 +353,24 @@ s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count278
-Package hyperref Info: Option `unicode' set `true' on input line 4058.
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-08 v7.00i Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4180.
-Package hyperref Info: Link nesting OFF on input line 4185.
-Package hyperref Info: Hyper index ON on input line 4188.
-Package hyperref Info: Plain pages OFF on input line 4195.
-Package hyperref Info: Backreferencing OFF on input line 4200.
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4433.
+Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count279
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4792.
+LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen152
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
@@ -385,15 +385,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count280
 \Field@Width=\dimen153
 \Fld@charsize=\dimen154
-Package hyperref Info: Hyper figures OFF on input line 6063.
-Package hyperref Info: Link nesting OFF on input line 6068.
-Package hyperref Info: Hyper index ON on input line 6071.
-Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
-Package hyperref Info: Link coloring with OCG OFF on input line 6088.
-Package hyperref Info: PDF/A mode OFF on input line 6093.
-LaTeX Info: Redefining \ref on input line 6133.
-LaTeX Info: Redefining \pageref on input line 6137.
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.
 sty
@@ -409,7 +409,7 @@ Package hyperref Info: Driver (autodetected): hluatex.
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hluatex.d
 ef
-File: hluatex.def 2021-02-08 v7.00i Hyperref driver for luaTeX
+File: hluatex.def 2021-02-10 v7.00j Hyperref driver for luaTeX
 
 (c:/Users/franj/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/string
 enc.sty
@@ -544,13 +544,13 @@ l.112 \documentclass[12pt,a4paper,oneside]{
                                          article}
 
 Here is how much of LuaTeX's memory you used:
- 15927 strings out of 478822
+ 15925 strings out of 478822
  100000,794899 words of node,token memory allocated
  456 words of node memory still in use:
    3 hlist, 1 rule, 1 dir, 3 kern, 1 glyph, 5 attribute, 60 glue_spec, 5 attribu
 te_list, 1 write, 1 pdf_colorstack nodes
    avail lists: 1:1,2:12,3:2,5:1,7:2,9:2
- 35097 multiletter control sequences out of 65536+600000
+ 35095 multiletter control sequences out of 65536+600000
  24 fonts using 2428499 bytes
  98i,0n,97p,326b,269s stack positions out of 5000i,500n,10000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

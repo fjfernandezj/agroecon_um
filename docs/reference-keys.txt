@@ -1,9 +1,0 @@
-fig:nice-fig
-tab:nice-tab
-intro
-comportamiento-del-consumidor
-methods
-applications
-example-one
-example-two
-final-words
