@@ -1,0 +1,11 @@
+fig:nice-fig
+tab:nice-tab
+intro
+sección-1-qué-es-la-economía-agraria-sec1
+literature
+methods
+applications
+example-one
+example-two
+final-words
+Sec1
