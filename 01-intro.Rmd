@@ -16,7 +16,11 @@ De esta manera, para obtener una mejor definición de _economía agraria_, exami
 
 ## Sección 2: El sector agrícola global y chileno {.unnumbered #Sec2}
 
+Las instituciones gubernamentales encargadas de políticas y desarrollo agropecuario comúnmente describen el sistema alimentario como una red compleja de agricultores y las industrias que los vinculan. Esos enlaces incluyen fabricantes de equipos agrícolas y químicos, firmas que brindan servicios a empresas agrícolas, como proveedores de transporte y servicios financieros. El sistema también incluye las industrias de comercialización de alimentos que vinculan a las explotaciones con los consumidores, y que incluyen procesadores de alimentos y fibras, mayoristas, minoristas y establecimientos de servicios de alimentos.
 
+La agricultura es importante en el desarrollo de cualquier economía. Los agricultores y ganaderos de hoy son socios altamente integrados en la economía de la mayoría de los países. Sus vínculos con otros sectores de la economía doméstica incluyen no solo los mercados a los que venden su producción, sino también los mercados financieros de los que toman préstamos, los mercados laborales en los que contratan mano de obra y buscan empleo fuera de la explotación, y los insumos manufacturados desde donde compran productos químicos, fertilizantes y equipos.
+
+En esta sección, analizaremos las principales tendencias y estadísticas de la agricultura a nivel global y nacional de manera de comprender la realidad del sector y su importancia en la economía.
 
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).

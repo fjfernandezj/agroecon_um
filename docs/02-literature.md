@@ -15,5 +15,11 @@ Las teorías económicas más prominentes sobre el comportamiento del consumidor
 
 ## Sección 4: Equilibrio del Consumidor y Demanda del Mercado {.unnumbered #Sec4}
 
+Si no hubiera restricciones presupuestarias, el consumidor consumiría todos los bienes y servicios en un punto en el que la utilidad marginal de cada bien o servicio sea cero. Con la presencia de una restricción presupuestaria, las decisiones del consumidor pueden considerarse como el proceso de elección de los productos de modo que la utilidad total derivada del consumo se maximice, sujeto al monto de la restricción presupuestaria. La suposición clave es que los consumidores tratan de maximizar su satisfacción o utilidad.
+
+
 ## Sección 5: Medidas e interpretación de elasticidades {.unnumbered #Sec5}
-Here is a review of existing methods.
+
+En las secciones anteriores analizamos la respuesta del consumidor a una disminución en el precio de un producto, quien ante este escenario, compraba más de ese producto. Los economistas llaman a esta relación inversa entre el precio y la cantidad demandada como la ley de la demanda. Adicionalmente, en las secciones anteriores aprendimos que la curva de demanda del mercado para un producto básico se desplaza hacia la derecha o hacia la izquierda cuando los consumidores responden a los cambios en otros precios e ingresos. Lo que no se ha dicho hasta ahora es el grado de respuesta del consumidor al cambio en los precios y los ingresos.
+
+Las estimaciones del grado de respuesta se expresan en lo que los economistas llaman **elasticidades**. El objetivo de esta sección es analizar la medición de elasticidades y proporcionar estimaciones reales de estas y su significado para los análisis económicos. 
